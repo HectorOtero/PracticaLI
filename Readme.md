@@ -24,3 +24,9 @@ Es esta materia nos enfocaremos en programar y realizar una aplicacion.
 Materia: Diseño de Videojuegos
 Profesor: Hector Guerrero
 En esta materia vemos la mejor forma de planear la forma de crear un videojuego, que aspectos debemos buscar primero y como debemos hacer sentir al jugador.
+
+**///////////////////////////**
+
+Materia: Composicion y Diseño
+Profesor: Roberto Melo
+Aqui conocemos sobre como debe ser un buen diseño, que debe de llevar y como debe estar compuesto.
