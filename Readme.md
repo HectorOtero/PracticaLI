@@ -30,3 +30,9 @@ En esta materia vemos la mejor forma de planear la forma de crear un videojuego,
 Materia: Composicion y Diseño
 Profesor: Roberto Melo
 Aqui conocemos sobre como debe ser un buen diseño, que debe de llevar y como debe estar compuesto.
+
+**//////////////////////////**
+
+Materia: Lenguajes Interpretados
+Profesor: Jonathan Mircha
+Conocemos el correcto manejo de Git, de terminales de codigo usando Visual Studio Code.
