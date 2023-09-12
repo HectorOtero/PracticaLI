@@ -1,0 +1,71 @@
+commit 736d8eb7043247cb733e0d414f9623431f7039c0
+Author: Hector Otero <cdmx2292@amerike.edu.mx>
+Date:   Wed Sep 6 23:56:30 2023 -0600
+
+    LenguajesInterpretados
+
+commit 3350168af5cdf1bbf83bfe697b266da693bb122a
+Author: Hector Otero <cdmx2292@amerike.edu.mx>
+Date:   Wed Sep 6 23:54:09 2023 -0600
+
+    ComposicionyDiseño
+
+commit 1e3f9c512bb7440a55554a41d9e93587fe53cf07
+Author: Hector Otero <cdmx2292@amerike.edu.mx>
+Date:   Wed Sep 6 23:51:46 2023 -0600
+
+    DiseñodeVideojuegos
+
+commit ffca6da94407e6ed289b3423c45cd409c9cce760
+Author: Hector Otero <cdmx2292@amerike.edu.mx>
+Date:   Wed Sep 6 23:49:04 2023 -0600
+
+    DiseñodeApp
+
+commit b14c5b101edc18d721c1cb79c9693e77ebfe6ae6
+Author: Hector Otero <cdmx2292@amerike.edu.mx>
+Date:   Wed Sep 6 23:46:10 2023 -0600
+
+    SistemasOperativos
+
+commit cf295cc6f46e0b98b53ed51aa951de9086ed9e69
+Author: Hector Otero <cdmx2292@amerike.edu.mx>
+Date:   Thu Aug 31 10:02:08 2023 -0600
+
+    Agregando enlace y contenido de la Práctica 5
+
+commit e02fabc48ae6c07bb88e76d42b45b0b1905666ac
+Author: HectorOtero <125500048+HectorOtero@users.noreply.github.com>
+Date:   Wed Aug 30 10:01:37 2023 -0600
+
+    Agregando Licencia al Repositorio
+
+commit f17ab8e2ef05598b7924ccba6e95b251fddbc49f
+Author: Hector Otero <cdmx2292@amerike.edu.mx>
+Date:   Wed Aug 30 09:50:49 2023 -0600
+
+    Creando archivo .gitignore
+
+commit ac7893689e8db5c6c53be938755987deaee05727
+Author: Hector Otero <cdmx2292@amerike.edu.mx>
+Date:   Tue Aug 29 12:39:20 2023 -0600
+
+    Agregar Foto
+
+commit 6c4b63501e04b35c9956978f47d747e19817e101
+Author: Hector Otero <cdmx2292@amerike.edu.mx>
+Date:   Tue Aug 29 12:34:37 2023 -0600
+
+    Agregar Edad
+
+commit 79ce261cd92e8bcc8cecc6b3e735ee513f9e1690
+Author: Hector Otero <cdmx2292@amerike.edu.mx>
+Date:   Tue Aug 29 12:33:41 2023 -0600
+
+    Agregar Nombre
+
+commit e5540f1a9ca79ff0953617938ff906fdd1c480d1
+Author: Hector Otero <cdmx2292@amerike.edu.mx>
+Date:   Tue Aug 29 12:31:47 2023 -0600
+
+    Primer Commit

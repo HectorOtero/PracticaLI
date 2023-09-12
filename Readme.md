@@ -36,3 +36,8 @@ Aqui conocemos sobre como debe ser un buen diseño, que debe de llevar y como de
 Materia: Lenguajes Interpretados
 Profesor: Jonathan Mircha
 Conocemos el correcto manejo de Git, de terminales de codigo usando Visual Studio Code.
+
+
+Agregando Nuevos Comandos 
+
+Aprendiendo a crear etiqutas 
